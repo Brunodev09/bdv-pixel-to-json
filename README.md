@@ -16,8 +16,8 @@ Script to quickly get a mapped pixel value JSON.
 
 ```json
 {
-    "path": "/home/bgiannoti/Imagens/tile.png",
-    "outFilePath": ""
+    "path": "/home/bdv/Images/tile.png",
+    "outFilePath": "/home/bdv/Images/"
 }
 ```
 
